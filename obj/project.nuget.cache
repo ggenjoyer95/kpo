@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yc1T0l79pgg=",
+  "success": true,
+  "projectFilePath": "/home/ggenjoyer/Documents/kpo/minidz/minidz1/ZooManagement.csproj",
+  "expectedPackageFiles": [
+    "/home/ggenjoyer/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.2/microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "/home/ggenjoyer/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
